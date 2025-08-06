@@ -1,1 +1,1 @@
-Download .zip file, open it and run it, then open privacy and security setting on mac, scroll to the bottom and click "open anyways" and then close and re-open the app, click "open anyways" and then it should work if you have ollama and gemma3n:e4b
+Download .zip file, open it and run it, then open privacy and security setting on mac, scroll to the bottom and click "open anyways" and then close and re-open the app, click "open anyways" and then it should work if you have ollama and gemma3n:e4b installed on machine. I promise it isn't malware.
